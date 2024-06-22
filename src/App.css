@@ -1,0 +1,65 @@
+/* App.css */
+body {
+  background-color: gray;
+color: black;
+}
+
+form{
+    background-color: rgb(255, 255, 255);
+ margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 3px;
+  
+}
+div {
+  margin-bottom: 1rem;
+  
+}
+
+.btn {
+  padding: 0.5rem 1remd;
+  border: none;
+  background-color: #0057b379;
+  color: black;
+  border-radius: 3px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+  color: white;
+}
+.details{
+  background-color: #ccc
+}
+
+
+label{
+  font-size: 1.5em;
+}
+input{
+  font-size: 1.1rem;
+outline: none;
+width: 90%;
+height: 1.2rem;
+outline: none;
+border: 1px solid rgb(199, 191, 191);
+}
+.form-check{
+  display: inherit;
+
+}
+
+.tr{
+  display: block;
+  
+}
+td{
+  border: 2px solid black;
+}
+th{
+  border: 0.1px solid black;
+}
